@@ -1,5 +1,3 @@
-<h1 align="center">:warning:This project is under development.:construction:</h1>
-
 # Tindog 🐶
 
 > Find the Nearest Drop-Off Locations
