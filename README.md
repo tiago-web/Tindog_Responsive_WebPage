@@ -4,19 +4,19 @@
 
 <p align="center">
    <a href="https://github.com/tiago-web" style="text-decoration: none">
-    <img alt="Author" src="https://img.shields.io/badge/Author-tiago--web-34CB79" />
+    <img alt="Author" src="https://img.shields.io/badge/Author-tiago--web-cd0200" />
    </a>
    
    <a href="#" style="text-decoration: none">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tiago-web/Tindog_Responsive_WebPage?color=34CB79" />
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/tiago-web/Tindog_Responsive_WebPage?color=cd0200" />
    </a>
    
    <a href="https://github.com/tiago-web/Tindog_Responsive_WebPage/stargazers" style="text-decoration: none">
-    <img alt="Stars" src="https://img.shields.io/github/stars/tiago-web/Tindog_Responsive_WebPage?color=34CB79&style=flat" />
+    <img alt="Stars" src="https://img.shields.io/github/stars/tiago-web/Tindog_Responsive_WebPage?color=cd0200&style=flat" />
    </a>
    
    <a href="https://github.com/tiago-web/Tindog_Responsive_WebPage/issues" style="text-decoration: none">
-    <img alt="Issues" src="https://img.shields.io/github/issues/tiago-web/Tindog_Responsive_WebPage?color=34CB79&style=flat" />
+    <img alt="Issues" src="https://img.shields.io/github/issues/tiago-web/Tindog_Responsive_WebPage?color=cd0200&style=flat" />
    </a>
 </p>
 
